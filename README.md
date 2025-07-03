@@ -1,1 +1,2 @@
 # mcp-app-test
+hi
